@@ -18,7 +18,7 @@ The app can be run with the command below:
 
 ## Framework
 
-The application is written in PHP based on the [Meteor](https://www.meteor.com/) framework, current version of Meteor
+The application is written in Js based on the [Meteor](https://www.meteor.com/) framework, current version of Meteor
 used for this project is 1.9.3.
  
 
