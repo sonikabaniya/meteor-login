@@ -1,4 +1,4 @@
-# ![Meteor login]
+# Meteor login
 
 ## Install
 
@@ -25,4 +25,4 @@ used for this project is 1.9.3.
 ## Tools and packages
 
 This application uses many tools and packages, the packages can 
-be seen in the [package.json](#) file
+be seen in the [package.json](https://github.com/sonikabaniya/meteor-login/blob/master/package-lock.json) file
